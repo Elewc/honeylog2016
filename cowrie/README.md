@@ -2,11 +2,13 @@
 
 
 ### Basic Results
-
+```
 Total entries = 9754
 Total unique entries = 9693
-
+```
 ### Top 10 passwords
+
+```
 zezewudi = 3 (0.03%)
 12345 = 3 (0.03%)
 123456 = 3 (0.03%)
@@ -17,8 +19,9 @@ password = 3 (0.03%)
 qazwsx = 3 (0.03%)
 rBtrn = 3 (0.03%)
 root = 3 (0.03%)
-
+```
 ### Top 10 base words
+```
 admin = 107 (1.1%)
 root = 101 (1.04%)
 test = 47 (0.48%)
@@ -29,8 +32,9 @@ pass = 29 (0.3%)
 qwerty = 24 (0.25%)
 qazwsx = 24 (0.25%)
 asdf = 23 (0.24%)
-
+```
 ### Password length (length ordered)
+```
 1 = 20 (0.21%)
 2 = 95 (0.97%)
 3 = 387 (3.97%)
@@ -83,8 +87,9 @@ asdf = 23 (0.24%)
 63 = 1 (0.01%)
 81 = 1 (0.01%)
 100 = 1 (0.01%)
-
+```
 ### Password length (count ordered)
+```
 8 = 1510 (15.48%)
 6 = 1493 (15.31%)
 7 = 1193 (12.23%)
@@ -137,7 +142,8 @@ asdf = 23 (0.24%)
 55 = 1 (0.01%)
 100 = 1 (0.01%)
 50 = 1 (0.01%)
-
+```
+```
       |                                                                 
       |                                                                 
       |                                                                 
@@ -156,7 +162,8 @@ asdf = 23 (0.24%)
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 000000000011111111112222222222333333333344444444445555555555666666666677
 012345678901234567890123456789012345678901234567890123456789012345678901
-
+```
+```
 One to six characters = 3533 (36.22%)
 One to eight characters = 6236 (63.93'%)
 More than eight characters = 3518 (36.07%)
@@ -172,7 +179,7 @@ First capital last number = 250 (2.56%)
 Single digit on the end = 545 (5.59%)
 Two digits on the end = 191 (1.96%)
 Three digits on the end = 1369 (14.04%)
-
+```
 ### Last number
 0 = 165 (1.69%)
 1 = 435 (4.46%)
@@ -204,6 +211,7 @@ Three digits on the end = 1369 (14.04%)
 0123456789
 
 ### Last digit
+```
 3 = 1362 (13.96%)
 1 = 435 (4.46%)
 4 = 284 (2.91%)
@@ -214,8 +222,9 @@ Three digits on the end = 1369 (14.04%)
 9 = 153 (1.57%)
 8 = 116 (1.19%)
 7 = 89 (0.91%)
-
+```
 ### Last 2 digits (Top 10)
+```
 23 = 1206 (12.36%)
 34 = 160 (1.64%)
 21 = 130 (1.33%)
@@ -226,8 +235,9 @@ Three digits on the end = 1369 (14.04%)
 00 = 48 (0.49%)
 89 = 44 (0.45%)
 88 = 39 (0.4%)
-
+```
 ### Last 3 digits (Top 10)
+```
 123 = 1194 (12.24%)
 234 = 157 (1.61%)
 456 = 116 (1.19%)
@@ -238,8 +248,9 @@ Three digits on the end = 1369 (14.04%)
 111 = 28 (0.29%)
 520 = 25 (0.26%)
 888 = 25 (0.26%)
-
+```
 ### Last 4 digits (Top 10)
+```
 1234 = 153 (1.57%)
 3456 = 97 (0.99%)
 2345 = 59 (0.6%)
@@ -250,8 +261,9 @@ Three digits on the end = 1369 (14.04%)
 6789 = 15 (0.15%)
 4567 = 15 (0.15%)
 3445 = 14 (0.14%)
-
+```
 ### Last 5 digits (Top 10)
+```
 23456 = 97 (0.99%)
 12345 = 59 (0.6%)
 54321 = 21 (0.22%)
@@ -262,8 +274,9 @@ Three digits on the end = 1369 (14.04%)
 23123 = 14 (0.14%)
 14520 = 12 (0.12%)
 45678 = 12 (0.12%)
-
+```
 ### Character sets
+```
 loweralpha: 3849 (39.46%)
 loweralphanum: 2720 (27.89%)
 loweralphaspecialnum: 804 (8.24%)
@@ -279,8 +292,9 @@ mixedalphaspecial: 55 (0.56%)
 upperalphaspecial: 47 (0.48%)
 upperalphaspecialnum: 40 (0.41%)
 special: 36 (0.37%)
-
+```
 ### Character set ordering
+```
 allstring: 4202 (43.08%)
 stringdigit: 1881 (19.28%)
 othermask: 1830 (18.76%)
@@ -294,6 +308,13 @@ digitstringdigit: 68 (0.7%)
 specialstring: 56 (0.57%)
 allspecial: 36 (0.37%)
 specialstringspecial: 24 (0.25%)
+```
+
+![access_graph](https://github.com/mrt-k/honeylog2016/blob/master/cowrie/all/img/wordcloud_password.png)
+
+![access_graph](https://github.com/mrt-k/honeylog2016/blob/master/cowrie/all/img/access_graph.png)
+
+![access_worldmap](https://github.com/mrt-k/honeylog2016/blob/master/cowrie/all/img/access_worldmap.png)
 
 
 
