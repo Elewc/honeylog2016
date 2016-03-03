@@ -181,6 +181,7 @@ Two digits on the end = 191 (1.96%)
 Three digits on the end = 1369 (14.04%)
 ```
 ### Last number
+```
 0 = 165 (1.69%)
 1 = 435 (4.46%)
 2 = 241 (2.47%)
@@ -191,7 +192,8 @@ Three digits on the end = 1369 (14.04%)
 7 = 89 (0.91%)
 8 = 116 (1.19%)
 9 = 153 (1.57%)
-
+```
+```
    |                                                                    
    |                                                                    
    |                                                                    
@@ -209,6 +211,7 @@ Three digits on the end = 1369 (14.04%)
 ||||||||||                                                              
 ||||||||||                                                              
 0123456789
+```
 
 ### Last digit
 ```
@@ -315,6 +318,5 @@ specialstringspecial: 24 (0.25%)
 ![access_graph](https://github.com/mrt-k/honeylog2016/blob/master/cowrie/all/img/access_graph.png)
 
 ![access_worldmap](https://github.com/mrt-k/honeylog2016/blob/master/cowrie/all/img/access_worldmap.png)
-
 
 
