@@ -323,10 +323,11 @@ allspecial: 36 (0.37%)
 specialstringspecial: 24 (0.25%)
 ```
 
-![access_graph](https://github.com/mrt-k/honeylog2016/blob/master/cowrie/all/img/wordcloud_password.png)
+![access_graph](cowrie/all/img/wordcloud_password.png)
 
-![access_graph](https://github.com/mrt-k/honeylog2016/blob/master/cowrie/all/img/access_graph.png)
+![access_graph](cowrie/all/img/access_graph.png)
 
-![access_worldmap](https://github.com/mrt-k/honeylog2016/blob/master/cowrie/all/img/access_worldmap.png)
+![access_worldmap](cowrie/all/img/access_worldmap.png)
+
 
 
