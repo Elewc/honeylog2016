@@ -6,9 +6,8 @@ from wordcloud import WordCloud
 d = path.dirname(__file__)
 
 text = open(sys.argv[1]).read()
-wordcloud = WordCloud().generate(text)
+wordcloud = WordCloud(max_font_size=40, relative_scaling=.5).generate(text)
 img = plt.imshow(wordcloud)
 plt.axis("off")
 #plt.show()
-
 img.write_png("wordcloud_password.png")
